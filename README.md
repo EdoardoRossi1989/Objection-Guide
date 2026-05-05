@@ -16,7 +16,7 @@ secure on the server rather than exposed in the browser.
 ├── vercel.json       ← Vercel configuration
 └── .env.example      ← Template for your API key (don't commit the real one)
 ```
-
+ 
 ---
 
 ## Deploy in 5 steps (~10 minutes, free)
